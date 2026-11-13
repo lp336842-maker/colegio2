@@ -1,0 +1,11 @@
+C:\Users\luisa\Desktop\Nueva carpeta (4)\SegundaParteColegio\Colegio.Dominio\bin\Debug\net10.0\Colegio.Dominio.deps.json
+C:\Users\luisa\Desktop\Nueva carpeta (4)\SegundaParteColegio\Colegio.Dominio\bin\Debug\net10.0\Colegio.Dominio.dll
+C:\Users\luisa\Desktop\Nueva carpeta (4)\SegundaParteColegio\Colegio.Dominio\bin\Debug\net10.0\Colegio.Dominio.pdb
+C:\Users\luisa\Desktop\Nueva carpeta (4)\SegundaParteColegio\Colegio.Dominio\obj\Debug\net10.0\Colegio.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luisa\Desktop\Nueva carpeta (4)\SegundaParteColegio\Colegio.Dominio\obj\Debug\net10.0\Colegio.Dominio.AssemblyInfoInputs.cache
+C:\Users\luisa\Desktop\Nueva carpeta (4)\SegundaParteColegio\Colegio.Dominio\obj\Debug\net10.0\Colegio.Dominio.AssemblyInfo.cs
+C:\Users\luisa\Desktop\Nueva carpeta (4)\SegundaParteColegio\Colegio.Dominio\obj\Debug\net10.0\Colegio.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\luisa\Desktop\Nueva carpeta (4)\SegundaParteColegio\Colegio.Dominio\obj\Debug\net10.0\Colegio.Dominio.dll
+C:\Users\luisa\Desktop\Nueva carpeta (4)\SegundaParteColegio\Colegio.Dominio\obj\Debug\net10.0\refint\Colegio.Dominio.dll
+C:\Users\luisa\Desktop\Nueva carpeta (4)\SegundaParteColegio\Colegio.Dominio\obj\Debug\net10.0\Colegio.Dominio.pdb
+C:\Users\luisa\Desktop\Nueva carpeta (4)\SegundaParteColegio\Colegio.Dominio\obj\Debug\net10.0\ref\Colegio.Dominio.dll

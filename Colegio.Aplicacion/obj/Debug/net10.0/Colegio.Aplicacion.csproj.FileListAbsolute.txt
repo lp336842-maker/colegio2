@@ -1,0 +1,15 @@
+C:\Users\luisa\Desktop\Nueva carpeta (4)\SegundaParteColegio\Colegio.Aplicacion\bin\Debug\net10.0\Colegio.Aplicacion.deps.json
+C:\Users\luisa\Desktop\Nueva carpeta (4)\SegundaParteColegio\Colegio.Aplicacion\bin\Debug\net10.0\Colegio.Aplicacion.dll
+C:\Users\luisa\Desktop\Nueva carpeta (4)\SegundaParteColegio\Colegio.Aplicacion\bin\Debug\net10.0\Colegio.Aplicacion.pdb
+C:\Users\luisa\Desktop\Nueva carpeta (4)\SegundaParteColegio\Colegio.Aplicacion\bin\Debug\net10.0\Colegio.Dominio.dll
+C:\Users\luisa\Desktop\Nueva carpeta (4)\SegundaParteColegio\Colegio.Aplicacion\bin\Debug\net10.0\Colegio.Dominio.pdb
+C:\Users\luisa\Desktop\Nueva carpeta (4)\SegundaParteColegio\Colegio.Aplicacion\obj\Debug\net10.0\Colegio.Aplicacion.csproj.AssemblyReference.cache
+C:\Users\luisa\Desktop\Nueva carpeta (4)\SegundaParteColegio\Colegio.Aplicacion\obj\Debug\net10.0\Colegio.Aplicacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luisa\Desktop\Nueva carpeta (4)\SegundaParteColegio\Colegio.Aplicacion\obj\Debug\net10.0\Colegio.Aplicacion.AssemblyInfoInputs.cache
+C:\Users\luisa\Desktop\Nueva carpeta (4)\SegundaParteColegio\Colegio.Aplicacion\obj\Debug\net10.0\Colegio.Aplicacion.AssemblyInfo.cs
+C:\Users\luisa\Desktop\Nueva carpeta (4)\SegundaParteColegio\Colegio.Aplicacion\obj\Debug\net10.0\Colegio.Aplicacion.csproj.CoreCompileInputs.cache
+C:\Users\luisa\Desktop\Nueva carpeta (4)\SegundaParteColegio\Colegio.Aplicacion\obj\Debug\net10.0\Colegio..86BD6F11.Up2Date
+C:\Users\luisa\Desktop\Nueva carpeta (4)\SegundaParteColegio\Colegio.Aplicacion\obj\Debug\net10.0\Colegio.Aplicacion.dll
+C:\Users\luisa\Desktop\Nueva carpeta (4)\SegundaParteColegio\Colegio.Aplicacion\obj\Debug\net10.0\refint\Colegio.Aplicacion.dll
+C:\Users\luisa\Desktop\Nueva carpeta (4)\SegundaParteColegio\Colegio.Aplicacion\obj\Debug\net10.0\Colegio.Aplicacion.pdb
+C:\Users\luisa\Desktop\Nueva carpeta (4)\SegundaParteColegio\Colegio.Aplicacion\obj\Debug\net10.0\ref\Colegio.Aplicacion.dll

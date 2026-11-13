@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Colegio.Aplicacion/1.0.0": {
+        "dependencies": {
+          "Colegio.Dominio": "1.0.0"
+        },
+        "runtime": {
+          "Colegio.Aplicacion.dll": {}
+        }
+      },
+      "Colegio.Dominio/1.0.0": {
+        "runtime": {
+          "Colegio.Dominio.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Colegio.Aplicacion/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Colegio.Dominio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

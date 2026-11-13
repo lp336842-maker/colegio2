@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Colegio.Api/Colegio.Api.csproj" />
+  <Project Path="Colegio.Aplicacion/Colegio.Aplicacion.csproj" />
+  <Project Path="Colegio.Dominio/Colegio.Dominio.csproj" />
+  <Project Path="Colegio.Infraestructura/Colegio.Infraestructura.csproj" />
+</Solution>

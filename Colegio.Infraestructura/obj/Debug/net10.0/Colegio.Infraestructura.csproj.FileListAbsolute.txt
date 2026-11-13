@@ -1,0 +1,15 @@
+C:\Users\luisa\Desktop\Nueva carpeta (4)\SegundaParteColegio\Colegio.Infraestructura\bin\Debug\net10.0\Colegio.Infraestructura.deps.json
+C:\Users\luisa\Desktop\Nueva carpeta (4)\SegundaParteColegio\Colegio.Infraestructura\bin\Debug\net10.0\Colegio.Infraestructura.dll
+C:\Users\luisa\Desktop\Nueva carpeta (4)\SegundaParteColegio\Colegio.Infraestructura\bin\Debug\net10.0\Colegio.Infraestructura.pdb
+C:\Users\luisa\Desktop\Nueva carpeta (4)\SegundaParteColegio\Colegio.Infraestructura\bin\Debug\net10.0\Colegio.Dominio.dll
+C:\Users\luisa\Desktop\Nueva carpeta (4)\SegundaParteColegio\Colegio.Infraestructura\bin\Debug\net10.0\Colegio.Dominio.pdb
+C:\Users\luisa\Desktop\Nueva carpeta (4)\SegundaParteColegio\Colegio.Infraestructura\obj\Debug\net10.0\Colegio.Infraestructura.csproj.AssemblyReference.cache
+C:\Users\luisa\Desktop\Nueva carpeta (4)\SegundaParteColegio\Colegio.Infraestructura\obj\Debug\net10.0\Colegio.Infraestructura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luisa\Desktop\Nueva carpeta (4)\SegundaParteColegio\Colegio.Infraestructura\obj\Debug\net10.0\Colegio.Infraestructura.AssemblyInfoInputs.cache
+C:\Users\luisa\Desktop\Nueva carpeta (4)\SegundaParteColegio\Colegio.Infraestructura\obj\Debug\net10.0\Colegio.Infraestructura.AssemblyInfo.cs
+C:\Users\luisa\Desktop\Nueva carpeta (4)\SegundaParteColegio\Colegio.Infraestructura\obj\Debug\net10.0\Colegio.Infraestructura.csproj.CoreCompileInputs.cache
+C:\Users\luisa\Desktop\Nueva carpeta (4)\SegundaParteColegio\Colegio.Infraestructura\obj\Debug\net10.0\Colegio..FF0C324D.Up2Date
+C:\Users\luisa\Desktop\Nueva carpeta (4)\SegundaParteColegio\Colegio.Infraestructura\obj\Debug\net10.0\Colegio.Infraestructura.dll
+C:\Users\luisa\Desktop\Nueva carpeta (4)\SegundaParteColegio\Colegio.Infraestructura\obj\Debug\net10.0\refint\Colegio.Infraestructura.dll
+C:\Users\luisa\Desktop\Nueva carpeta (4)\SegundaParteColegio\Colegio.Infraestructura\obj\Debug\net10.0\Colegio.Infraestructura.pdb
+C:\Users\luisa\Desktop\Nueva carpeta (4)\SegundaParteColegio\Colegio.Infraestructura\obj\Debug\net10.0\ref\Colegio.Infraestructura.dll
